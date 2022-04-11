@@ -1,7 +1,6 @@
-package com.company;
 import java.util.Scanner;
 
-public class MyClass {
+public class EuclideanAlgorithm {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         System.out.print("Masukkan bilangan bulat pertama: ");
